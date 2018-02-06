@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @abhay0609
- Sign out
- Unwatch 2
-  Unstar 2  Fork 1 pankaj2806/PracticeJava
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Branch: master Find file Copy pathPracticeJava/.gitignore
-8a406fa  on 23 Nov 2017
-@abhay0609 abhay0609 added problems
-2 contributors @pankaj2806 @abhay0609
-RawBlameHistory     
-47 lines (36 sloc)  742 Bytes
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
@@ -62,15 +44,3 @@ fabric.properties
 target/*
 .idea/
 
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
